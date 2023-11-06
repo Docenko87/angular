@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./my-comp.component.css']
 })
 export class MyCompComponent {
-
+  titleNew = 'test'
 }
